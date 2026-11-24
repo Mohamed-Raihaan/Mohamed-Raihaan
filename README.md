@@ -1,10 +1,10 @@
 <!-- ============================================================ -->
-<!--        MOHAMED RAIHAAN | ORBITAL CLOUD STATION README        -->
+<!--                  MOHAMED RAIHAAN | README                    -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=MOHAMED%20RAIHAAN&fontSize=42&fontAlignY=38&desc=%20CLOUD%20ENGINEER%20%20&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=MOHAMED%20RAIHAAN&fontSize=42&fontAlignY=38&desc=%20CLOUD%20ENGINEER%20&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -25,7 +25,7 @@
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   🛰️  MISSION CONTROL                                       ║
+║   🛰️  PROFILE                                                ║
 ║                                                              ║
 ║   NAME       →  MOHAMED RAIHAAN M                            ║
 ║   ROLE       →  ASPIRING CLOUD ENGINEER                      ║
@@ -37,65 +37,65 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-## 🪐 CURRENT ORBIT
+## 🪐 CURRENT FOCUS
 
 ```text
-                         ✦
-                    CLOUD ENGINEERING
-                          │
-              ┌───────────┼───────────┐
-              │           │           │
-              ▼           ▼           ▼
-          ☁️ AZURE      🐧 LINUX     ⚙️ CI/CD
-              │           │           │
-         Infrastructure  Systems    Automation
-              │           │           │
-              └───────────┼───────────┘
-                          │
-                    🔐 SECURITY
+                          ✦
+                     CLOUD ENGINEERING
+                           │
+               ┌────────��──┼───────────┐
+               │           │           │
+               ▼           ▼           ▼
+           ☁️ AZURE      🐧 LINUX     ⚙️ CI/CD
+               │           │           │
+          Infrastructure  Systems    Automation
+               │           │           │
+               └───────────┼───────────┘
+                           │
+                     🔐 SECURITY
 ```
 
-**Core mission areas**
+**Core expertise areas**
 
-`Microsoft Azure` · `Cloud Infrastructure` · `Linux` · `Networking` · `Docker` · `GitHub Actions` · `CI/CD` · `Cloud Security`
+`Microsoft Azure` · `Cloud Infrastructure` · `Linux` · `Networking` · `Docker` · `Terraform` · `GitHub Actions` · `CI/CD` · `Cloud Security`
 
 ---
 
-## 🚀 FEATURED MISSION
+## 🚀 PROJECT MISSIONS
 
-### 🛰️ Secure Azure Cloud Infrastructure & CI/CD Deployment
+### 🛰️ [Secure Azure Cloud Infrastructure & CI/CD](https://github.com/Mohamed-Raihaan/contoso-app)
 
-> An end-to-end secure cloud deployment for a Python-based retail application.
+An end-to-end Azure deployment for a containerized Python application.
 
-```text
-                    ┌─────────────────────┐
-                    │     GITHUB CODE     │
-                    └──────────┬──────────┘
-                               │
-                        GitHub Actions
-                               │
-                               ▼
-     ┌──────────────┐    ┌──────────────┐
-     │ Azure VNet   │───▶│   Azure VM   │
-     │ Subnets      │    │ Docker/Ubuntu│
-     │ NSGs         │    └──────┬───────┘
-     └──────────────┘           │
-                                ▼
-                       Flask + Nginx
-                                │
-                                ▼
-                         Azure SQL Database
-```
+- Azure VNet, segmented subnets, NSGs, Bastion, and virtual machines
+- Dockerized Flask application behind Nginx
+- Azure SQL Database, Managed Identity, Azure Monitor, Application Insights, and Azure Backup
+- Automated testing and deployment with GitHub Actions and a self-hosted runner
 
-**Mission capabilities**
+**Stack:** `Azure` `Linux` `Ubuntu` `Docker` `Python` `Flask` `Nginx` `SQL` `GitHub Actions`
 
-`Azure VM` `VNet` `Subnet Segmentation` `NSGs` `Azure SQL` `Azure Bastion`  
-`Docker` `Ubuntu` `Nginx` `GitHub Actions` `Azure Monitor`  
-`Application Insights` `Managed Identity` `Azure Backup`
+### 🧱 [Automated Azure Blob Storage with Terraform](https://github.com/Mohamed-Raihaan/azure-blob-storage-terraform)
 
-The project includes secure infrastructure design, containerized Flask deployment, automated CI/CD with a self-hosted runner, health checks, monitoring, alerts, backup, and least-privilege identity configuration. 
+Infrastructure-as-code provisioning for secure, cost-optimized Azure Blob Storage.
 
+- Modular Terraform resources for storage accounts and containers
+- Lifecycle management from hot to cool tiering and automated cleanup
+- TLS 1.2 enforcement, private access controls, and blob versioning
+- Seven-day soft-delete protection for data recovery
 
+**Stack:** `Terraform` `HCL` `Azure Blob Storage` `Azure Storage` `Infrastructure as Code`
+
+### 📡 [SRE Uptime Monitor & Alerting](https://github.com/Mohamed-Raihaan/SRE-UPTIME-MONITOR)
+
+A Python-based site reliability project for availability monitoring and operational alerting.
+
+- Scheduled HTTP uptime checks using Linux cron
+- Discord and Slack webhook notifications for failures
+- Azure telemetry collection with Azure Monitor Agent
+- Centralized log analytics and CPU anomaly monitoring using KQL
+- Automated backup, retention, and disaster-recovery procedures
+
+**Stack:** `Python` `Linux` `Cron` `Azure VM` `Azure Monitor` `Log Analytics` `KQL` `Webhooks`
 
 ---
 
@@ -106,6 +106,11 @@ The project includes secure infrastructure design, containerized Flask deploymen
 ### ☁️ CLOUD
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 🏗️ INFRASTRUCTURE AS CODE
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-3F46AD?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### ⚙️ DEVOPS
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -115,11 +120,11 @@ The project includes secure infrastructure design, containerized Flask deploymen
 ### 🐧 SYSTEMS & NETWORKING
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### 💻 CODE
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 </div>
 
@@ -178,6 +183,6 @@ The project includes secure infrastructure design, containerized Flask deploymen
 
 ### 🛸 Thanks for stopping by.
 
-**See you somewhere in the cloud. ☁️🌌**
+**See you somewhere in the cloud. ☁️**
 
 </div>
