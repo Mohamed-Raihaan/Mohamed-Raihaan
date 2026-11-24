@@ -95,7 +95,7 @@
 
 The project includes secure infrastructure design, containerized Flask deployment, automated CI/CD with a self-hosted runner, health checks, monitoring, alerts, backup, and least-privilege identity configuration. 
 
-🔗 **Repository:** *Coming soon to Mission Control*
+
 
 ---
 
