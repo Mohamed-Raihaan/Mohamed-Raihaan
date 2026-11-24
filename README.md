@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=MOHAMED%20RAIHAAN&fontSize=42&fontAlignY=38&desc=ORBITAL%20CLOUD%20ENGINEER%20%E2%80%A2%20MISSION%20CONTROL&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=MOHAMED%20RAIHAAN&fontSize=42&fontAlignY=38&desc=%20CLOUD%20ENGINEER%20%20&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <br/>
 
